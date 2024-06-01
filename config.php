@@ -1,0 +1,6 @@
+<?php
+$DB_HOST='127.0.0.1';
+$DB_PORT=3306;
+$DB_DATABASE='ecommerce';
+$DB_USERNAME='ecommerce_user';
+$DB_PASSWORD='3446ca95cfc9613f04250a5059f5a824';
